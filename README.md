@@ -1,4 +1,4 @@
-# deelopdracht-3
+# Deelopdracht-3
 
 ### Doestellingen
 
