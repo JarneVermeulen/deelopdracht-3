@@ -21,7 +21,7 @@ Als laatste volgt er een reflectie, hier vragen we achter hun gebruikerservaring
 
 
 ### Conclusies & implicaties
-
++ design requierements!
 ### Bijlagen
 Testprotocol: https://docs.google.com/document/d/1oxgNrhcFk-cyLVjD3RIEkG_EgXbaDWnPPPzUKwT3GxM/edit?usp=sharing 
 Report testen: https://docs.google.com/document/d/1r_shWgywcSDu3Vw36urfKN32AsDJcoCDtGzQOMJXIDQ/edit?usp=sharing
