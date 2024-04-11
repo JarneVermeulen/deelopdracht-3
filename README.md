@@ -30,6 +30,16 @@ Als laatste volgt er een reflectie, hier vragen we achter hun gebruikerservaring
 
 ### Resultaten
 Na de testen bleek dat niet de controller met de afmetingen van de gemiddelde waarde de favoriet was, maar de controller met één maal de standaardafwijking kleiner dan die waarde. Ook de volwassene, die buiten de doelgroep zat koos voor die die afmetingen. Er blijkt dus geen grote verschillen te zitten tussen verschillende leeftijden. Bij de meisjes was duidelijk controller 3 de favoriet. Bij de jongens was dit zowel controller 1 als 3. Uit de testen bleek dat de band wel degelijk zorgt voor meer gemak tijdens het lopen. Wat opvalt is dat wanneer er gevraagd wordt om informatie af te lezen op de controller ze dit horizontaal doen wanneer de controller aan de band vast zit en ze dit verticaal doen wanneer ze de controller in hun handen hebbben. Voor de band waren er wel wat zaken die nog beter moeten zoals dat die strakker moet zijn. De band zou ook instelbaar moet zijn zodat die rond de mouw van een jas kan doen wanneer je bijvoorbeeld in de winter speelt.
+<table border="1">
+    <tr>
+        <td>gebruikerstest</td>
+        <td>arm volwassenen</td>
+    </tr>
+    <tr>
+        <td><img src="afbeeldingen deelopdracht 3/gebruikerstest.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 3/arm volwassen.png" width="100%"/></td>
+    </tr>
+</table>
 
 ### Conclusies & implicaties
 design requierements:
