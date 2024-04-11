@@ -16,7 +16,7 @@ Voor de band hebben we eerst aan benchmarking gedaan (zie Miro) voor het bepalen
     </tr>
     <tr>
         <td><img src="afbeeldingen deelopdracht 3/3controllers.png" width="100%"/></td>
-        <td><img src="afbeeldingen deelopdracht 3/band.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 3/band .png" width="100%"/></td>
         <td><img src="afbeeldingen deelopdracht 3/velcro.png" width="100%"/></td>
     </tr>
 </table>
