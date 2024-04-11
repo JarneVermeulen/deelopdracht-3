@@ -27,5 +27,7 @@ design requierements:
 4. De omtrek van de band moet groot genoeg zijn om rond de mouw van een jas te kunnen.
 ### Bijlagen
 Testprotocol: https://docs.google.com/document/d/1oxgNrhcFk-cyLVjD3RIEkG_EgXbaDWnPPPzUKwT3GxM/edit?usp=sharing 
+
 Report testen: https://docs.google.com/document/d/1r_shWgywcSDu3Vw36urfKN32AsDJcoCDtGzQOMJXIDQ/edit?usp=sharing
+
 Miro: https://miro.com/app/board/uXjVNc1zdgc=/?share_link_id=213286718257
