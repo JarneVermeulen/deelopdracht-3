@@ -25,11 +25,11 @@ Voor de band hebben we eerst aan benchmarking gedaan (zie Miro) voor het bepalen
 
 De User testen worden uitgevoerd met 5 respondenten. De respondenten hadden leeftijden tussen 10 en 15 jaar. Als extra hebben we ervoor gekozen om een volwassene toe te voegen, zo wanneer het kind eens met zijn ouder wil spelen, weten we of dit model ook past voor hen. 
 
-De testen draaiden vooral rond de spelervaring en ergonomie. Eerst werd er een kwalificatie uitgevoerd, dan een simulatie en om te eindigen reflectie/ conclusie. In de simulatie voeren de jongeren verschillende parcours uit, telkens met een andere controller. Eerst met controller, dan met controller en band. Ook vragen we hier of ze eens informatie willen aflezen van de controller, zo kunnen we zien of de jongere liever de informatie horizontaal of verticaal heeft op de controller. In deze fase moet er goed geobseerd worden en kunnen we eventuele feedback verzamelen. 
+De testen draaiden vooral rond de spelervaring en ergonomie. Eerst werd er een kwalificatie uitgevoerd, dan een simulatie en om te eindigen reflectie/ conclusie. In de simulatie voeren de jongeren verschillende parcours uit, telkens met een andere controller. Eerst met controller, dan met controller en band. Ook vragen we hier of ze eens informatie willen aflezen van de controller, zo kunnen we zien of de jongere liever de informatie horizontaal of verticaal heeft op de controller. In deze fase moet er goed geobserveerd worden, zo kan er feedback verzamelen worden. 
 Als laatste volgt er een reflectie, hier vragen we achter hun gebruikerservaring en welke controller uitsprong. Ze kunnen dan ook tips geven om het ontwerp te optimaliseren.
 
 ### Resultaten
-Na de testen bleek dat niet de controller met de afmetingen van de gemiddelde waarde de favoriet was, maar de controller met één maal de standaardafwijking kleiner dan die waarde. Ook de volwassene, die buiten de doelgroep zat koos voor die die afmetingen. Er blijkt dus geen grote verschillen te zitten tussen verschillende leeftijden. Bij de meisjes was duidelijk controller 3 de favoriet. Bij de jongens was dit zowel controller 1 als 3. Uit de testen bleek dat de band wel degelijk zorgt voor meer gemak tijdens het lopen. Wat opvalt is dat wanneer er gevraagd wordt om informatie af te lezen op de controller ze dit horizontaal doen wanneer de controller aan de band vast zit en ze dit verticaal doen wanneer ze de controller in hun handen hebbben. Voor de band waren er wel wat zaken die nog beter moeten zoals dat die strakker moet zijn. De band zou ook instelbaar moet zijn zodat die rond de mouw van een jas kan doen wanneer je bijvoorbeeld in de winter speelt.
+Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde, niet de favoriet was, maar de controller met één maal de standaardafwijking kleiner dan die waarde. Ook de volwassene, die buiten de doelgroep zat, koos voor deze afmetingen. Er blijken dus geen grote verschillen te zitten tussen de verschillende leeftijden. Bij het vrouwelijk geslacht was duidelijk controller 3 de favoriet. Bij het mannelijk geslacht waren controller 1 en 3 de favorieten. Na de testen viel op wat voor invloed de band had, het zorgde duidelijk voor wat meer comfort en bewegingsvrijheid tijdens het spelverloop. Iets waar rekening mee gehouden moet worden, is het aflezen van informatie. Opvallend is wanneer het was enkel met de controller in hun handen, lazen ze de informatie verticaal, en wanneer dit met controller en band was, lazen ze de informatie horizontaal.  Voor de band waren er wel wat zaken die nog beter konden, bijvoorbeeld de stof dat strakker moet zitten. Ook zou de band instelbaar moeten zijn zodat die rond de mouw van een jas kan geplaatst worden, wanneer je bijvoorbeeld in de winter speelt.
 <table border="1">
     <tr>
         <td>gebruikerstest</td>
@@ -42,11 +42,11 @@ Na de testen bleek dat niet de controller met de afmetingen van de gemiddelde wa
 </table>
 
 ### Conclusies & implicaties
-design requierements:
+Design requierements:
 1. De afmetingen van controller 3 worden gebruikt.
-2. De features van de controller moet zo geplaatst zijn dat ze ook makkelijk horizontaal af te lezen zijn wanneer de controller vastgehouden wordt in de hand.
-3. De band moet uit een materiaal bestaan die niet te veel uitrekt zodat die strak genoeg zit.
-4. De omtrek van de band moet groot genoeg zijn om rond de mouw van een jas te kunnen.
+2. De features van de controller moeten goed geplaatst worden, dat ze makkelijk af te lezen zijn in beide situaties. Dus wanneer de controller in je hand zit, dat ze makkelijk af te lezen zijn vanuit de horizontale stand.
+3. De band moet uit een materiaal bestaan die niet te veel uitrekt, zodat deze strak genoeg zit.
+4. De omtrek van de band moet groot genoeg zijn, om bijvoorbeeld rond de mouw van een jas te kunnen.
 ### Bijlagen
 Testprotocol: https://docs.google.com/document/d/1oxgNrhcFk-cyLVjD3RIEkG_EgXbaDWnPPPzUKwT3GxM/edit?usp=sharing 
 
