@@ -7,6 +7,7 @@ Hiervoor hebben een analyse gedaan van data op de site van dinbelg.be en dined.i
 
 ### Materiaal
 Aan de hand van de bekomen data creëerden we verschillende prototypes. De controller werd gemaakt uit karton, telkens 3 verschillende afmetingen. Na wat benchmarking, zijn we gegaan voor de vorm die we bekomen hebben in semester 1 want deze kwam er positief uit, maar met afgeronde hoeken. De lengte van de controller werd berekend met de handlengte en -breedte. Het gemiddelde werd genomen voor de 10-15 jarigen, en dan 1 keer plus en min de standaardafwijking. Dan werd de breedte van de controller bepaald. We begonnen met de lengte van de vingers (7,1 cm), wanneer je dit verdubbelt heb je de omtrek (14,2 cm). Hier namen we de 12-jarigen omdat dit de grootste leeftijd was waarvan die lengte beschikbaar was. Daarna werd tweemaal de dikte van de controller(2 x 2,5 cm), die overgenomen werd vanuit semester 1 afgetrokken zodat we als resultaat 9,2 cm bekomen. Om de breedte te bekomen moeten we enkel nog die afmeting delen door 2. Ook hier werd die afmeting 1 keer plus & min de standaardafwijking bepaald. Zo hadden we volgende afmetingen: (h:10,4 - b:4,1 / h:12,1 - b:4,6 / h:13,8 - b:5,1)cm. 
+<table border="1">
  <tr>
         <td>handlengte</td>
         <td>handbreedte</td>
@@ -26,9 +27,9 @@ Voor de band hebben we eerst aan benchmarking gedaan (zie Miro) voor het bepalen
         <td>achterkant controller met velcro</td>
     </tr>
     <tr>
-        <td><img src="afbeeldingen deelopdracht 3/3controllers.png" width="10%"/></td>
-        <td><img src="afbeeldingen deelopdracht 3/band .png" width="10%"/></td>
-        <td><img src="afbeeldingen deelopdracht 3/velcro.png" width="10%"/></td>
+        <td><img src="afbeeldingen deelopdracht 3/3controllers.png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 3/band .png" width="100%"/></td>
+        <td><img src="afbeeldingen deelopdracht 3/velcro.png" width="100%"/></td>
     </tr>
 </table>
 
