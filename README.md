@@ -44,7 +44,7 @@ Na de testen bleek dat de controller met de afmetingen van de gemiddelde waarde 
 ### Conclusies & implicaties
 Design requierements:
 1. De afmetingen van controller 3 worden gebruikt.
-2. De features van de controller moeten goed geplaatst worden, dat ze makkelijk af te lezen zijn in beide situaties. Dus wanneer de controller in je hand zit, dat ze makkelijk af te lezen zijn vanuit de horizontale stand.
+2. De features van de controller moeten goed geplaatst worden, dat ze makkelijk af te lezen zijn in beide situaties (rond arm en in de hand). Dus wanneer de controller in je hand zit, moet het makkelijk af te lezen zijn in horizontale stand.
 3. De band moet uit een materiaal bestaan die niet te veel uitrekt, zodat deze strak genoeg zit.
 4. De omtrek van de band moet groot genoeg zijn, om bijvoorbeeld rond de mouw van een jas te kunnen.
 ### Bijlagen
