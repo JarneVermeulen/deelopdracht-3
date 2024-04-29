@@ -21,14 +21,16 @@ Aan de hand van de bekomen data creëerden we verschillende prototypes. De contr
         <td><img src="afbeeldingen deelopdracht 3/afmeting vinger.png" width="100%"/></td>
     </tr>
 </table>
-Voor de band hebben we eerst aan benchmarking gedaan (zie Miro) voor het bepalen van het uiterlijk. Voor stevigheid komt de band vast te zitten tot aan de vingers zodat die niet kan roteren rond de arm. De band hebben we gemaakt uit een nylon kous, en met als afmeting de elleboog-hand lengte. Voor de elleboog-hand lengte hebben we het 95ste percentiel gebruikt zodat dit ook voor volwassenen zou kunnen gebruikt worden. Zo kwamen we aan een lengte van 24 cm. De omtrek van de band zal instelbaar zijn, dus deze moest niet bepaald worden. De verbinding tussen de band en de controller wordt met velcro bekomen.
+Voor de band hebben we eerst aan benchmarking gedaan (zie Miro) voor het bepalen van het uiterlijk. Voor stevigheid komt de band vast te zitten tot aan de vingers zodat die niet kan roteren rond de arm (zie voorbeeld hieronder). De band hebben we gemaakt uit een nylon kous, en met als afmeting de elleboog-hand lengte. Voor de elleboog-hand lengte hebben we het 95ste percentiel gebruikt zodat dit ook voor volwassenen zou kunnen gebruikt worden. Zo kwamen we aan een lengte van 24 cm. De omtrek van de band zal instelbaar zijn, dus deze moest niet bepaald worden. De verbinding tussen de band en de controller wordt met velcro bekomen.
 <table border="1">
     <tr>
+        <td>band benchmarking</td>
         <td>controllers</td>
         <td>band</td>
         <td>achterkant controller met velcro</td>
     </tr>
     <tr>
+        <td><img src="afbeeldingen deelopdracht 3/benchmarking band.png" width="100%"/></td>
         <td><img src="afbeeldingen deelopdracht 3/3controllers.png" width="100%"/></td>
         <td><img src="afbeeldingen deelopdracht 3/band .png" width="100%"/></td>
         <td><img src="afbeeldingen deelopdracht 3/velcro.png" width="100%"/></td>
